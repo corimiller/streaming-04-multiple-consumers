@@ -4,8 +4,7 @@ Cori Miller MOD 4
     This program listens for work messages contiously. 
     Start multiple versions to add more workers.  
 
-    Author: Denise Case
-    Date: January 15, 2023
+    Instead of getting messages from the console the producer will read from tasks.csv.
 
 Cori Miller MOD 4 
 

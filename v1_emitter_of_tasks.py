@@ -1,4 +1,5 @@
 """
+Cori Miller MOD 4 
 
 Creates and sends a task message to the queue each execution.
 This process runs and finishes. 
@@ -8,7 +9,7 @@ Approach
 ---------
 Work Queues - one task producer / many workers sharing work.
 
-
+Cori Miller MOD 4 
 """
 
 import pika

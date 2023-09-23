@@ -1,4 +1,5 @@
 """
+Cori Miller MOD 4 
 
 Listens for task messages on the queue.
 This process runs continously. 
@@ -10,6 +11,7 @@ Approach
 ---------
 Work Queues - one task producer / many workers sharing work.
 
+Cori Miller MOD 4 
 
 Terminal Reminders
 ------------------
